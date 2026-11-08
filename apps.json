@@ -15,9 +15,9 @@
   {
     "url": "https://github.com/frappe/india-payroll",
     "branch": "v16.1.0"
-  }
+  },
   {
-  "url": "https://github.com/frappe/tally_migrator",
-  "branch": "main"
-}
+    "url": "https://github.com/frappe/tally_migrator",
+    "branch": "main"
+  }
 ]
